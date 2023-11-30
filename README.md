@@ -1,3 +1,4 @@
+![Logo](https://github.com/Karthikjarajapu/Karthik-Jarajapu/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Karthik Jarajapu</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3>
 <p align="right"alt="coding"width="400"src="C:\Users\anils\Downloads\54e37d8074ebcde1d96c77d7b2a7f310.gif">
