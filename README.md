@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Karthikjarajapu/Karthikjarajapu/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Karthik Jarajapu</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <p align="right"alt="coding"width="400"src="C:\Users\anils\Downloads\54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikjarajapu&label=Profile%20views&color=0e75b6&style=flat" alt="karthikjarajapu" /> </p>
 
