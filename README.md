@@ -22,9 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/@karthikjarajapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@karthikjarajapu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karthik jarajapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik jarajapu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@karthikjarajapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@karthikjarajapu" height="30" width="40" /></a>
-<a href="https://karthikjarajapu.000webhostapp.com/" target="blank"><img align="center" src="![image](https://github.com/Karthikjarajapu/Karthikjarajapu/assets/99270957/8250ae1c-2576-4706-924e-003a1bb29a69)
-" alt="@karthikjarajapu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@karthikjarajapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Digital Resume" height="30" width="40" /></a>
+<a href="https://karthikjarajapu.000webhostapp.com/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
